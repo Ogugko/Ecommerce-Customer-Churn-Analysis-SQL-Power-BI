@@ -1,1 +1,1 @@
-# Customer-Segmentation-Analysis-SQL-Power-BI
+# Ecommerce-Customer-Churn-Analysis-SQL-Power-BI

@@ -40,11 +40,9 @@ The data set is publicly available on [Maven Analytics](https://www.mavenanalyti
 
 - Loyalty Programs: The main reason for churn was ‘competitors better offers’, and most churned customers did not have any promotional offers, Maven could implement different loyalty programs to retain their customers, such as rewarding customers with discounted rates. 
 - Improve Customer Support: Invest in training and development of support staff to ensure they provide excellent customer service. This could include regular coaching and feedback sessions, as well as incentives for staff who receive positive customer feedback.
-- Make better devices: Evaluate the features, performance and pricing of your devices to ensure they are in line with market standards and demand.
 - Premium Tech Support: Since customers who did not have access to premium tech support were more likely to churn, Maven should consider offering this service to all customers.
 - Improve Fiber Optic Service: Invest in improving your Fiber Optic offerings like faster speeds, more stable connections, and better customer support for Fiber Optic customers.
 - Engage High-Value Customers: Prioritise engaging these customers to prevent them from leaving. Provide personalised offers, send targeted communications, and provide premium tech support to ensure these customers remain satisfied with their service.
-- After-Sales Service: Schedule regular check-ins with customers to ensure they are still satisfied with their service. These check-ins could be in the form of surveys, phone calls, or email communications.
 
 ### Dashboard 
 ![Maven Customer Churn Dashboard](https://github.com/Ogugko/Ecommerce-Customer-Churn-Analysis-SQL-Power-BI/assets/143842831/6c918574-5ac4-442a-83e3-c3a888add638)

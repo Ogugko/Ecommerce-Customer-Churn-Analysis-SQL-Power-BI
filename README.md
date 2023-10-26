@@ -1,4 +1,5 @@
-# Ecommerce-Customer-Churn-Analysis-SQL-Power-BI
+## Ecommerce Customer Churn Analysis Dashboard 
+![Maven Customer Churn Dashboard](https://github.com/Ogugko/Ecommerce-Customer-Churn-Analysis-SQL-Power-BI/assets/143842831/6c918574-5ac4-442a-83e3-c3a888add638)
 
 ### Background
 Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
@@ -19,8 +20,8 @@ Analyse Maven Telecom's customer churn data to identify key factors contributing
 10. What offers were churned customers on?
 
 ### Tools
-SQL for Data Cleaning and Data Analysis 
-Power BI for Data Visualisation
+- SQL for Data Cleaning and Data Analysis 
+- Power BI for Data Visualisation
 
 ### Data Set
 The data set is publicly available on [Maven Analytics](https://www.mavenanalytics.io/data-playground).
@@ -44,6 +45,5 @@ The data set is publicly available on [Maven Analytics](https://www.mavenanalyti
 - Improve Fiber Optic Service: Invest in improving your Fiber Optic offerings like faster speeds, more stable connections, and better customer support for Fiber Optic customers.
 - Engage High-Value Customers: Prioritise engaging these customers to prevent them from leaving. Provide personalised offers, send targeted communications, and provide premium tech support to ensure these customers remain satisfied with their service.
 
-### Dashboard 
-![Maven Customer Churn Dashboard](https://github.com/Ogugko/Ecommerce-Customer-Churn-Analysis-SQL-Power-BI/assets/143842831/6c918574-5ac4-442a-83e3-c3a888add638)
+
 

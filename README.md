@@ -1,5 +1,6 @@
 ## Ecommerce Customer Churn Analysis Dashboard 
-![Maven Customer Churn Dashboard](https://github.com/Ogugko/Ecommerce-Customer-Churn-Analysis-SQL-Power-BI/assets/143842831/6c918574-5ac4-442a-83e3-c3a888add638)
+![image](https://github.com/Ogugko/Ecommerce-Customer-Churn-Analysis-SQL-Power-BI/assets/143842831/bacc9195-eef3-4fcd-967a-06a3c257be6c)
+
 
 ### Background
 Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
